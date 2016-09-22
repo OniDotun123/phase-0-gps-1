@@ -14,4 +14,4 @@ I love code blocks
 
 I love to give my readers a [link](http://www.livescience.com/25559-dragons.html)
 
-Look at our inline [screenshot] <https://github.com/OniDotun123/phase-0-gps-1/pull/3>` link
+Look at our inline [screenshot] (https://github.com/OniDotun123/phase-0-gps-1/pull/3) link
